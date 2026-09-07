@@ -8,7 +8,7 @@
 ![GLSL](https://img.shields.io/badge/GLSL-555555?style=for-the-badge&logo=opengl&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-🌐 **Canlı Demo / Live Web Application:** [https://davut-eren-ekici.github.io/Animated-heart/](https://davut-eren-ekici.github.io/Animated-heart/)
+🌐 **Canlı Demo / Live Web Application:** [https://davut-eren-ekici.github.io/Animated-heart/](https://davut-eren-ekici.github.io/Animated-heart/) 
 
 ---
 
